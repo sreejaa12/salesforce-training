@@ -71,4 +71,5 @@ Admission staff log into the app, review student inquiries, convert leads into s
 - Get Started with Salesforce Development
 
 ## Screenshots
-Add Trailhead completion screenshots here.
+<img width="965" height="278" alt="image" src="https://github.com/user-attachments/assets/89f32399-7671-4307-9d74-ca9fe99d22c7" />
+
