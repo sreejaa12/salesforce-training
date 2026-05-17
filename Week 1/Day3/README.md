@@ -119,6 +119,14 @@ Using the same College Admission example:
 - One Student can have many Applications
 - Applications can be linked to Departments
 
+### Diagram
+College
+   │
+   ├── Students
+   │
+   ├── Departments
+   │
+Students ─── Admission Applications
 
 ## Trailhead Modules Completed
 - Data Modeling
