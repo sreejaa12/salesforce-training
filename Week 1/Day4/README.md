@@ -61,9 +61,11 @@ Automation is important because it reduces repetitive manual work, improves accu
 ## Screenshots
 
 1.Flow Builder Basics
+
 <img width="461" height="795" alt="Screenshot 2026-05-17 145305" src="https://github.com/user-attachments/assets/494210be-49b6-4e77-8f53-66dbb695235a" />
 
 
 2.Data and Actions in Flows
+
 <img width="456" height="737" alt="Screenshot 2026-05-18 112946" src="https://github.com/user-attachments/assets/29174357-b254-4932-abf0-508d0f268a90" />
 
