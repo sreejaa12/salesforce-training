@@ -112,9 +112,3 @@ Enterprise systems become complex over time. Click-based tools are useful for si
 2. Apex Basics & Database
    
 <img width="447" height="680" alt="Screenshot 2026-05-18 125838" src="https://github.com/user-attachments/assets/77f63ac5-d719-4c1c-b038-ccdeedaf3a97" />
-
-
-
-
-## Screenshots
-Add Apex module completion screenshots here.
