@@ -30,7 +30,7 @@ Today I learned how Salesforce uses Lightning Web Components to create modern us
 ## Modules Completed
 - Search Solution Basics
 
- <img width="390" height="727" alt="Screenshot 2026-05-18 204332" src="https://github.com/user-attachments/assets/56980465-dd55-4cd5-a894-7ee4e92579f1" />
+  <img width="390" height="727" alt="Screenshot 2026-05-18 204332" src="https://github.com/user-attachments/assets/56980465-dd55-4cd5-a894-7ee4e92579f1" />
 
 - Lightning Web Components Basics
 
